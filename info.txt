@@ -1,0 +1,191 @@
+0	Upper GI bleeding	1
+1	Gallstone	2
+2	Carcinoma colon	1
+3	Hyperthyroidism	1
+4	Carcinoma breast	3
+5	Obstructive jaundice	1
+6	Acute pancreatitis	3
+7	Rectal prolapse	2
+8	Inguinal hernia	1
+9	Splenomegaly	1
+10	Carcinoma tongue	1
+11	Benign prostatic hyperplasia	4
+12	Cleft lip	1
+13	Hydrocephalus	1
+14	Anaesthetic agents	1
+15	Hypospadias	1
+16	Regional anaesthesia	1
+17	Calcitonin	1
+18	Hyperparathyroidism	1
+19	Bell's palsy	1
+20	Wrist drop	1
+21	MRI	1
+22	CT	1
+23	Linear accelerator	1
+24	Brachytherapy	3
+25	Acute cholecystitis	1
+26	Peptic ulcer	1
+27	Haemorrhoid	2
+28	Triple assessment of breast lump	1
+29	Solitary thyroid nodule	2
+30	Imperforate anus	2
+31	Intussusception	2
+32	Epigastric hernia	1
+33	Meckel's diverticulum	1
+34	Mesenteric cyst	2
+35	Bilateral hernia	1
+36	Seminoma testis	1
+37	Tongue ulcer	1
+38	Local anaesthesia	3
+39	Rupture of urinary bladder	1
+40	Phimosis	3
+41	Lateral aberrant thyroid	1
+42	Mucocele of appendix	1
+43	Triangle of doom	1
+44	Charcot's triad	2
+45	Potts puffy tumour	1
+46	Richter's hernia	3
+47	Tamoxifen	2
+48	Chovstek's sign	1
+49	Small bowel ischaemia	1
+50	Common bile duct calculi	1
+51	Thyroid surgery	1
+52	Pheochromocytoma	1
+53	Congenital hypertrophic pyloric stenosis	1
+54	Sliding inguinal hernia	1
+55	Meningomyelocele	1
+56	Fistula in ano	1
+57	Renal stones	4
+58	Deep venous thrombosis	2
+59	Premalignant lesions of oropharynx	1
+60	Spinal anaesthesia	1
+61	Non healing ulcers of legs	1
+62	Ureteric calculus	1
+63	Ulnar nerve palsy	1
+64	PET	2
+65	Intravenous pyelogram	1
+66	RFA in surgery	1
+67	Fogarty's balloon catheter	1
+68	Primary sites of cancer for metastasis to inguinal lymph nodes	1
+69	Thyroglossal cyst	2
+70	Vascular anatomy of breast	2
+71	Graves disease	1
+72	Addison disease	1
+73	Spigelian hernia	1
+74	Referred pain	1
+75	Psoas abscess	1
+76	Visible gastric peristalsis	1
+77	Courvoisiers law	2
+78	Biological mesh	1
+79	Tongue tie	1
+80	Diabetic foot ulcer	1
+81	Dental cyst	1
+82	Dentigerous cyst	2
+83	Raynaud's disease	1
+84	Raynaud's phenomenon	1
+85	Raynaud's syndrome	1
+86	Teleradiotherapy	1
+87	Systemic inflammatory response syndrome	1
+88	Ambulatory venous hypertension	1
+89	Pulsatile secondary	1
+90	Cannonball secondary	1
+91	Whipple's triad	1
+92	Ankle brachial index	1
+93	TAPP	1
+94	Triangle of safety	2
+95	Claudication distance	1
+96	Migrating thrombophlebitis	1
+97	Blood nipple discharge	1
+98	Deep ring occlusion test	1
+99	Mcburney's point	2
+100	Red currant jelly	1
+101	Free gas under diaphragm	1
+102	MRCP	1
+103	Signe de dance	1
+104	TSH	1
+105	Ectopic testis	1
+106	Tardy ulnar palsy	1
+107	Barium swallow	1
+108	Paraphimosis	1
+109	Acute fissure in ano	1
+110	Odontome	1
+111	Trans illumination	1
+112	Ganglion	1
+113	Ram horn penis	1
+114	Ring block	1
+115	Fistulogram	1
+116	Ranula	1
+117	Epispadias	1
+118	Clubbing	1
+119	Carcinoma stomach	2
+120	Perforated duodenal ulcer	1
+121	Achalasia cardia	1
+122	Phyllodes tumour	1
+123	Tracheo-oesophageal fistula	2
+124	Pilonidal sinus	1
+125	Cystic hygroma	1
+126	Carcinoma penis	1
+127	Hydronephrosis	1
+128	Parathyroid adenoma	1
+129	Varicose ulcer	1
+130	Retrosternal goitre	1
+131	Lucid interval	1
+132	Prostate specific antigen	1
+133	Antithyroid drugs	1
+134	Pretibial myxedema	1
+135	Hydrocele	1
+136	Tumour markers in testicular tumour	1
+137	Duplex scan	1
+138	Peripheral arterial disease	1
+139	Hematemesis	1
+140	GIST	1
+141	Benign breast disease	1
+142	Locoregional anaesthesia	1
+143	ERCP	1
+144	Chyle leak	1
+145	Priapism	1
+146	Testicular tumours	1
+147	Dysphagia	1
+148	Chronic empyema	1
+149	Amoebic liver abscess	1
+150	Flail chest	1
+151	Appendicular lump	1
+152	Murphy's sign	1
+153	Penile meatus stenosis	1
+154	Trousseau's sign	1
+155	Rebound tenderness	2
+156	Mondor disease	1
+157	Caput medusa	1
+158	Trigger finger	1
+159	CSF otorrhea	1
+160	T-tube in choledocholithotomy	1
+161	Polycystic kidney	1
+162	FAST	1
+163	LUTS	1
+164	Hernioplasty	1
+165	Goodsall rule	1
+166	Cystosarcoma phyllodes	2
+167	Thyroid function tests	1
+168	Basal cell carcinoma	1
+169	Fluctuation	1
+170	Birads classification	1
+171	Carcinoma in situ	1
+172	Polymerase chain reaction	1
+173	Hilton's method for drainage of abscess	1
+174	Bleeding oesophageal varices	1
+175	Gastric outlet obstruction	1
+176	Abdominal tuberculosis	1
+177	Varicose veins	1
+178	Laparoscopic cholecystectomy	1
+179	Zollinger ellison syndrome	1
+180	Renal cell carcinoma	1
+181	Rupture urethra	1
+182	Hydatid cyst of liver	1
+183	Adamantinoma	1
+184	Buerger disease	1
+185	Littre hernia	1
+186	Sistrunk operation	1
+187	Theodor kocher	1
+188	Virchows lymph node	1
+189	Barrett's oesophagus	1
+190	Pemberton sign	1
