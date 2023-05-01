@@ -37,7 +37,7 @@ def update_topic_counts(topic):
 
 
     response = requests.get(URL+"/get_list_data")
-    print(f"STATUS CODE\n{response.status_code}\nSTATUS CODE OVER")
+    print(f"STATUS CODE\n{response.status_code}\nSTATUS CODE OVER ")
     if response.status_code == 200:
         data = response.json()
         actualNames = data['actualNames']
