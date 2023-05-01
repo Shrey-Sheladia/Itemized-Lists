@@ -1,4 +1,3 @@
-from flask import jsonify
 import streamlit as st
 import pandas as pd
 import requests
