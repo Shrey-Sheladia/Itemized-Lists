@@ -44,7 +44,7 @@ def update_topic_counts(topic):
     else:
         print('Error: failed to retrieve data')
 
-
+    print(actualNames)
     clean_topic = cleanName(topic)
     actualNames[clean_topic] = topic
 
