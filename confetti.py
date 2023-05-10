@@ -8,6 +8,6 @@ def show_confetti():
     html(html_code)
 
 
-# def confetti_button():
-#     if st.button("Celebrate!"):
-#         show_confetti()
+def confetti_button():
+    if st.button("Celebrate!"):
+        show_confetti()
